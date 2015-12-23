@@ -1,0 +1,8 @@
+<parameters>
+	<bDrawFrameRateOnBigScreen>0</bDrawFrameRateOnBigScreen>
+	<threshold>192.525</threshold>
+	<bDrawDebugGrid>0</bDrawDebugGrid>
+	<color>100, 100, 100, 255</color>
+<parameters/>
+	<motionThreshold>4.65</motionThreshold>
+</parameters>

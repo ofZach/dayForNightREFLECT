@@ -1,0 +1,5 @@
+ofxBlackmagic
+ofxCv
+ofxGui
+ofxOpenCv
+ofxXmlSettings
